@@ -15,7 +15,7 @@
     "@hoodie/client": "^10.0.0",
     "@hoodie/server": "^23.0.0",
     "async": "^3.1.0",
-    "browserify": "^16.0.0",
+    "browserify": "^16.5.1",
     "good": "^7.0.2",
     "good-squeeze": "^5.0.0",
     "h2o2": "^6.0.0",
@@ -34,7 +34,7 @@
     "pouchdb-mapreduce": "^7.1.1",
     "rc": "^1.1.6",
     "semver": "^6.3.0",
-    "yargs": "^8.0.2"
+    "yargs": "^17.3.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.0",
